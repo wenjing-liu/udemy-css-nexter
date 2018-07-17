@@ -48,7 +48,7 @@
         background-color: $color-secondary;
         color: #fff;
         font-weight: 400;
-        transform: translateY(50%);
+        transform: translateY(50%); // make the item downer of the current row
     }
 
     &__location,
